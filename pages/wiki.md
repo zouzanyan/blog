@@ -1,7 +1,7 @@
 ---
 layout: wiki
 title: Wiki
-description: 人越学越觉得自己无知
+description: 我唯一知道的事，就是我一无所知
 keywords: 维基, Wiki
 comments: false
 copyright: false
