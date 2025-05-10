@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://zouzanyan.eu.org
+url: https://blog.zouzanyan.eu.org
 date_format: "ordinal"
 title: ZZY
 subtitle: "="
